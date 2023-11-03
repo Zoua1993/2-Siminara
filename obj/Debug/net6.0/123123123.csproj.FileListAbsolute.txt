@@ -1,0 +1,15 @@
+C:\Users\qweqwe\Desktop\GB\3.Шарп\Cеминары\123123123\obj\Debug\net6.0\123123123.csproj.AssemblyReference.cache
+C:\Users\qweqwe\Desktop\GB\3.Шарп\Cеминары\123123123\obj\Debug\net6.0\123123123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qweqwe\Desktop\GB\3.Шарп\Cеминары\123123123\obj\Debug\net6.0\123123123.AssemblyInfoInputs.cache
+C:\Users\qweqwe\Desktop\GB\3.Шарп\Cеминары\123123123\obj\Debug\net6.0\123123123.AssemblyInfo.cs
+C:\Users\qweqwe\Desktop\GB\3.Шарп\Cеминары\123123123\obj\Debug\net6.0\123123123.csproj.CoreCompileInputs.cache
+C:\Users\qweqwe\Desktop\GB\3.Шарп\Cеминары\123123123\bin\Debug\net6.0\123123123.exe
+C:\Users\qweqwe\Desktop\GB\3.Шарп\Cеминары\123123123\bin\Debug\net6.0\123123123.deps.json
+C:\Users\qweqwe\Desktop\GB\3.Шарп\Cеминары\123123123\bin\Debug\net6.0\123123123.runtimeconfig.json
+C:\Users\qweqwe\Desktop\GB\3.Шарп\Cеминары\123123123\bin\Debug\net6.0\123123123.dll
+C:\Users\qweqwe\Desktop\GB\3.Шарп\Cеминары\123123123\bin\Debug\net6.0\123123123.pdb
+C:\Users\qweqwe\Desktop\GB\3.Шарп\Cеминары\123123123\obj\Debug\net6.0\123123123.dll
+C:\Users\qweqwe\Desktop\GB\3.Шарп\Cеминары\123123123\obj\Debug\net6.0\refint\123123123.dll
+C:\Users\qweqwe\Desktop\GB\3.Шарп\Cеминары\123123123\obj\Debug\net6.0\123123123.pdb
+C:\Users\qweqwe\Desktop\GB\3.Шарп\Cеминары\123123123\obj\Debug\net6.0\123123123.genruntimeconfig.cache
+C:\Users\qweqwe\Desktop\GB\3.Шарп\Cеминары\123123123\obj\Debug\net6.0\ref\123123123.dll
